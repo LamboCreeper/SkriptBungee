@@ -1,0 +1,5 @@
+name: SkriptBungee
+version: 1.0.0
+main: uk.LamboCreeper.core.Core
+depend: [Skript]
+commands:
