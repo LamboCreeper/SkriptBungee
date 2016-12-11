@@ -1,5 +1,5 @@
 # SkriptBungee
-Skript Bungee Cord addon.
+Skript Bungee Cord addon. Requires Skript and BungeeCord.
 ## Syntax
 ### Send A Player to a Server.
 To send one player to a certain server use:
